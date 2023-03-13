@@ -1,0 +1,433 @@
+[2023-03-13 20:01:40,807] {manager.py:514} INFO - Processing files using up to 2 processes at a time 
+[2023-03-13 20:01:40,808] {manager.py:515} INFO - Process each file at most once every 30 seconds
+[2023-03-13 20:01:40,809] {manager.py:517} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2023-03-13 20:01:40,810] {manager.py:663} INFO - Searching for files in /opt/airflow/dags
+[2023-03-13 20:01:40,846] {manager.py:666} INFO - There are 0 files in /opt/airflow/dags
+[2023-03-13 20:01:40,860] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:01:40,862] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:56:40.862018+00:00
+[2023-03-13 20:01:50,876] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:01:50,877] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:56:50.877251+00:00
+[2023-03-13 20:02:00,896] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:02:00,897] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:57:00.897192+00:00
+[2023-03-13 20:02:10,916] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:02:10,917] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:57:10.917563+00:00
+[2023-03-13 20:02:20,936] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:02:20,937] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:57:20.937447+00:00
+[2023-03-13 20:02:30,957] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:02:30,958] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:57:30.958429+00:00
+[2023-03-13 20:02:40,978] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:02:40,979] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:57:40.978984+00:00
+[2023-03-13 20:02:50,997] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:02:50,998] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:57:50.998916+00:00
+[2023-03-13 20:03:01,018] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:03:01,020] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:58:01.020626+00:00
+[2023-03-13 20:03:11,040] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:03:11,042] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:58:11.041985+00:00
+[2023-03-13 20:03:21,061] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:03:21,063] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:58:21.063142+00:00
+[2023-03-13 20:03:31,083] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:03:31,084] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:58:31.084048+00:00
+[2023-03-13 20:03:41,103] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:03:41,105] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:58:41.104960+00:00
+[2023-03-13 20:03:51,123] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:03:51,125] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:58:51.125006+00:00
+[2023-03-13 20:04:01,143] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:04:01,144] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:59:01.144891+00:00
+[2023-03-13 20:04:11,164] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:04:11,166] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:59:11.166425+00:00
+[2023-03-13 20:04:21,186] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:04:21,187] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:59:21.187652+00:00
+[2023-03-13 20:04:31,207] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:04:31,209] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:59:31.209447+00:00
+[2023-03-13 20:04:41,228] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:04:41,230] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:59:41.230142+00:00
+[2023-03-13 20:04:51,249] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:04:51,250] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 19:59:51.250583+00:00
+[2023-03-13 20:05:01,270] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:05:01,272] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:00:01.272001+00:00
+[2023-03-13 20:05:11,291] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:05:11,293] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:00:11.293349+00:00
+[2023-03-13 20:05:21,311] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:05:21,312] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:00:21.312955+00:00
+[2023-03-13 20:05:31,333] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:05:31,334] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:00:31.334590+00:00
+[2023-03-13 20:05:41,354] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:05:41,355] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:00:41.355423+00:00
+[2023-03-13 20:05:51,373] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:05:51,374] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:00:51.374897+00:00
+[2023-03-13 20:06:01,393] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:06:01,395] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:01:01.394967+00:00
+[2023-03-13 20:06:11,415] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:06:11,416] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:01:11.416371+00:00
+[2023-03-13 20:06:21,436] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:06:21,438] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:01:21.438293+00:00
+[2023-03-13 20:06:31,459] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:06:31,460] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:01:31.460095+00:00
+[2023-03-13 20:06:41,480] {manager.py:663} INFO - Searching for files in /opt/airflow/dags
+[2023-03-13 20:06:41,531] {manager.py:666} INFO - There are 2 files in /opt/airflow/dags
+[2023-03-13 20:06:41,546] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:06:41,547] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:01:41.547562+00:00
+[2023-03-13 20:06:41,557] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/cp_run_on_emr_dag.py    266  0.00s             0           0
+/opt/airflow/dags/hello_dag.py            265  0.00s             0           0
+================================================================================
+[2023-03-13 20:06:51,662] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:06:51,663] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:01:51.663672+00:00
+[2023-03-13 20:07:01,689] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:07:01,690] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:02:01.690072+00:00
+[2023-03-13 20:07:11,713] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:07:11,714] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:02:11.714881+00:00
+[2023-03-13 20:07:11,719] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           0           1  1.09s           2023-03-13T20:06:42
+/opt/airflow/dags/hello_dag.py                                   1           0  2.52s           2023-03-13T20:06:44
+================================================================================
+[2023-03-13 20:07:21,828] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:07:21,829] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:02:21.829777+00:00
+[2023-03-13 20:07:31,855] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:07:31,856] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:02:31.856803+00:00
+[2023-03-13 20:07:41,880] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:07:41,881] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:02:41.881842+00:00
+[2023-03-13 20:07:41,887] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           0           1  0.35s           2023-03-13T20:07:16
+/opt/airflow/dags/hello_dag.py                                   1           0  0.09s           2023-03-13T20:07:14
+================================================================================
+[2023-03-13 20:07:51,989] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:07:51,991] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:02:51.990967+00:00
+[2023-03-13 20:08:02,016] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:08:02,017] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:03:02.017246+00:00
+[2023-03-13 20:08:12,041] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:08:12,042] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:03:12.042869+00:00
+[2023-03-13 20:08:12,051] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           0           1  0.34s           2023-03-13T20:07:47
+/opt/airflow/dags/hello_dag.py                                   1           0  0.08s           2023-03-13T20:07:44
+================================================================================
+[2023-03-13 20:08:22,167] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:08:22,168] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:03:22.168622+00:00
+[2023-03-13 20:08:32,194] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:08:32,195] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:03:32.195087+00:00
+[2023-03-13 20:08:42,453] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:08:42,454] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:03:42.454397+00:00
+[2023-03-13 20:08:42,460] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           0           1  0.37s           2023-03-13T20:08:41
+/opt/airflow/dags/hello_dag.py                                   1           0  0.10s           2023-03-13T20:08:15
+================================================================================
+[2023-03-13 20:08:52,481] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:08:52,482] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:03:52.482758+00:00
+[2023-03-13 20:09:02,509] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:09:02,510] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:04:02.510798+00:00
+[2023-03-13 20:09:12,534] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:09:12,537] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:04:12.537081+00:00
+[2023-03-13 20:09:12,544] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py    459  0.00s             0           1  0.37s           2023-03-13T20:08:41
+/opt/airflow/dags/hello_dag.py                                   1           0  0.08s           2023-03-13T20:08:45
+================================================================================
+[2023-03-13 20:09:22,596] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:09:22,598] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:04:22.598777+00:00
+[2023-03-13 20:09:32,683] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:09:32,684] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:04:32.684622+00:00
+[2023-03-13 20:09:43,035] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:09:43,037] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:04:43.037015+00:00
+[2023-03-13 20:09:43,043] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           0           1  0.41s           2023-03-13T20:09:41
+/opt/airflow/dags/hello_dag.py                                   1           0  0.08s           2023-03-13T20:09:15
+================================================================================
+[2023-03-13 20:09:53,139] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:09:53,140] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:04:53.140413+00:00
+[2023-03-13 20:10:03,163] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:10:03,165] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:05:03.165106+00:00
+[2023-03-13 20:10:13,187] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:10:13,189] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:05:13.189725+00:00
+[2023-03-13 20:10:13,195] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           0           1  0.30s           2023-03-13T20:10:11
+/opt/airflow/dags/hello_dag.py                                   1           0  0.09s           2023-03-13T20:09:46
+================================================================================
+[2023-03-13 20:10:23,216] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:10:23,217] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:05:23.217882+00:00
+[2023-03-13 20:10:33,255] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:10:33,257] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:05:33.257153+00:00
+[2023-03-13 20:10:43,321] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:10:43,322] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:05:43.322950+00:00
+[2023-03-13 20:10:43,328] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  1.15s           2023-03-13T20:10:33
+/opt/airflow/dags/hello_dag.py                                   1           0  0.08s           2023-03-13T20:10:16
+================================================================================
+[2023-03-13 20:10:53,349] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:10:53,350] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:05:53.350527+00:00
+[2023-03-13 20:10:56,366] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:10:56,426] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:10:57,373] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:10:57,432] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:10:58,380] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:10:58,438] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:10:59,387] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:10:59,443] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:00,394] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:00,448] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:01,401] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:01,454] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:02,409] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:02,459] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:03,411] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:11:03,413] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:06:03.413181+00:00
+[2023-03-13 20:11:03,421] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:03,464] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:03,737] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:04,470] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:04,742] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:05,477] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:05,748] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:06,484] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:06,754] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:07,490] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:07,760] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:08,497] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:08,767] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:09,503] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:09,774] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:10,510] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:10,779] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:11,516] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:11,785] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:12,522] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:12,791] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:13,524] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:11:13,526] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:06:13.526670+00:00
+[2023-03-13 20:11:13,536] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:13,537] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.31s           2023-03-13T20:11:03
+/opt/airflow/dags/hello_dag.py                                   1           0  0.08s           2023-03-13T20:10:46
+================================================================================
+[2023-03-13 20:11:13,798] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:14,543] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:14,805] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:15,549] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:15,812] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:16,556] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:16,818] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:17,563] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:17,823] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:18,570] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:18,829] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:19,577] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:19,835] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:20,583] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:20,840] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:21,590] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:21,846] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:22,596] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:22,852] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:23,598] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:11:23,599] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:06:23.599497+00:00
+[2023-03-13 20:11:23,607] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:23,858] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:24,613] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:24,865] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:25,619] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:25,870] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:26,625] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:26,877] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:27,631] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:27,883] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:28,639] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:28,888] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:29,645] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:29,895] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:30,651] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:30,901] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:31,658] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:31,906] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:32,665] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:32,912] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:33,667] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:11:33,668] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:06:33.668864+00:00
+[2023-03-13 20:11:33,677] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:33,918] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:34,250] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:34,928] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:35,256] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:35,936] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:36,262] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:36,943] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:37,268] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:37,948] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:38,274] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:38,954] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:39,282] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:39,962] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:40,289] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:40,968] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:41,296] {manager.py:991} WARNING - Skipping processing of missing file: /opt/airflow/dags/hello_dag.py
+[2023-03-13 20:11:41,970] {manager.py:663} INFO - Searching for files in /opt/airflow/dags
+[2023-03-13 20:11:42,020] {manager.py:666} INFO - There are 1 files in /opt/airflow/dags
+[2023-03-13 20:11:44,042] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:11:44,043] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:06:44.043476+00:00
+[2023-03-13 20:11:44,048] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.33s           2023-03-13T20:11:34
+================================================================================
+[2023-03-13 20:11:54,067] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:11:54,069] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:06:54.069328+00:00
+[2023-03-13 20:12:04,092] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:12:04,094] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:07:04.094327+00:00
+[2023-03-13 20:12:14,342] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:12:14,344] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:07:14.344565+00:00
+[2023-03-13 20:12:14,351] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.37s           2023-03-13T20:12:04
+================================================================================
+[2023-03-13 20:12:24,371] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:12:24,372] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:07:24.372339+00:00
+[2023-03-13 20:12:34,396] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:12:34,397] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:07:34.397840+00:00
+[2023-03-13 20:12:44,738] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:12:44,739] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:07:44.739565+00:00
+[2023-03-13 20:12:44,745] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.38s           2023-03-13T20:12:35
+================================================================================
+[2023-03-13 20:12:54,764] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:12:54,765] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:07:54.765857+00:00
+[2023-03-13 20:13:04,789] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:13:04,789] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:08:04.789948+00:00
+[2023-03-13 20:13:15,148] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:13:15,149] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:08:15.149785+00:00
+[2023-03-13 20:13:15,156] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.34s           2023-03-13T20:13:05
+================================================================================
+[2023-03-13 20:13:25,177] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:13:25,178] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:08:25.178815+00:00
+[2023-03-13 20:13:35,201] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:13:35,203] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:08:35.203223+00:00
+[2023-03-13 20:13:45,524] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:13:45,525] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:08:45.525884+00:00
+[2023-03-13 20:13:45,532] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.33s           2023-03-13T20:13:35
+================================================================================
+[2023-03-13 20:13:55,550] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:13:55,551] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:08:55.551854+00:00
+[2023-03-13 20:14:05,576] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:14:05,576] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:09:05.576956+00:00
+[2023-03-13 20:14:15,889] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:14:15,891] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:09:15.891435+00:00
+[2023-03-13 20:14:15,898] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.32s           2023-03-13T20:14:06
+================================================================================
+[2023-03-13 20:14:25,919] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:14:25,920] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:09:25.920433+00:00
+[2023-03-13 20:14:35,944] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:14:35,946] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:09:35.946011+00:00
+[2023-03-13 20:14:46,247] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:14:46,249] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:09:46.249760+00:00
+[2023-03-13 20:14:46,255] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.33s           2023-03-13T20:14:36
+================================================================================
+[2023-03-13 20:14:56,275] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:14:56,277] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:09:56.277476+00:00
+[2023-03-13 20:15:06,302] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:15:06,303] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:10:06.303363+00:00
+[2023-03-13 20:15:16,609] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:15:16,611] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:10:16.611204+00:00
+[2023-03-13 20:15:16,617] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.32s           2023-03-13T20:15:06
+================================================================================
+[2023-03-13 20:15:26,636] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:15:26,638] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:10:26.638213+00:00
+[2023-03-13 20:15:36,660] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:15:36,662] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:10:36.662150+00:00
+[2023-03-13 20:15:46,960] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-03-13 20:15:46,962] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-03-13 20:10:46.962877+00:00
+[2023-03-13 20:15:46,969] {manager.py:784} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/cp_run_on_emr_dag.py                           1           0  0.33s           2023-03-13T20:15:37
+================================================================================

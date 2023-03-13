@@ -1,0 +1,86 @@
+drop schema if exists ODS_ADOBE;
+CREATE SCHEMA ODS_ADOBE;
+drop schema if exists STG_ADOBE;
+create schema STG_ADOBE;
+drop schema if exists INT_ADOBE;
+create schema INT_ADOBE;
+
+drop schema if exists ODS_VODAFONE;
+CREATE SCHEMA ODS_ADOBE;
+drop schema if exists STG_VODAFONE;
+create schema STG_ADOBE;
+drop schema if exists INT_VODAFONE;
+create schema INT_VODAFONE;
+
+CREATE TABLE ODS_ADOBE.BASE_REPORT(
+    TrackingCode VARCHAR,Visits VARCHAR,Percent VARCHAR,Orders VARCHAR,TargetPercent,Revenue VARCHAR
+);
+
+CREATE TABLE STG_ADOBE.BASE_REPORT(
+    TrackingCode VARCHAR,Visits VARCHAR,Porcentage VARCHAR,Orders VARCHAR,TargetPorcentage,Revenue VARCHAR
+)
+
+CREATE TABLE ODS_VODAFONE.BASE_REPORT(
+   RowType VARCHAR,	Action VARCHAR,	Status VARCHAR,	ConversionID VARCHAR, AdvertiserConversionID VARCHAR, ConversionRevenue VARCHAR
+
+)
+
+CREATE TABLE STG_VODAFONE.BASE_REPORT(
+    RowType VARCHAR, Action VARCHAR, Status VARCHAR, ConversionID BIGINT, AdvertiserconversionID BIGINT, ConversionRevenue INTEGER,VisitID INTEGER
+)
+
+insert into STG_ADOBE.BASE_REPORT
+select TrackingCode,
+Visits,
+Percent,
+Orders,
+TargetPercent,
+Revenue
+from  ODS_ADOBE.BASE_REPORT source
+where not exists (
+select TrackingCode,
+Visits,
+Porcentage,
+Orders,
+TargetPorcentage,
+Revenue
+from STG_ADOBE.BASE_REPORT target
+where target.TrackingCode =source.TrackingCode
+and target.Visits =source.Visits
+and target.Porcentage =source.Porcentage
+and target.Orders =source.Orders
+and target.TargetPorcentage =source.TargetPorcentage
+and target.Revenue =source.Revenue
+);
+
+insert into STG_VODAFONE.BASE_REPORT
+select RowType,
+Action, 
+Status, 
+ConversionID, 
+AdvertiserconversionID, 
+ConversionRevenue
+,VisitID
+from  ODS_VODAFONE.BASE_REPORT source
+where not exists (
+select RowType,
+Action, 
+Status, 
+ConversionID, 
+AdvertiserconversionID, 
+ConversionRevenue
+,VisitID
+from STG_VODAFONE.BASE_REPORT target
+where target.ConversionID =source.ConversionID
+and target.AdvertiserconversionID =source.AdvertiserconversionID
+);
+
+CREATE OR REPLACE VIEW INT.BASE_REPORT
+AS
+SELECT TrackingCode,
+Visits,
+Percent,
+Orders,
+TargetPercent,
+Revenue
+from STG_ADOBE.BASE_REPORT;
